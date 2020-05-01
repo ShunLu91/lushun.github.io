@@ -1,10 +1,8 @@
-## Shun Lu
+## Welcome to GitHub Pages
 
-[lushun19@mails.ucas.ac.cn](lushun19@mails.ucas.ac.cn)
+You can use the [editor on GitHub](https://github.com/ShunLu91/lushun.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-6 South Road, Zhongguancun Academy of Sciences
-
-Institute of Computing Technology, ICT
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
