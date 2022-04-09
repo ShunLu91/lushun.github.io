@@ -1,8 +1,6 @@
 ## Shun Lu
 
-[lushun19@mails.ucas.ac.cn](lushun19@mails.ucas.ac.cn)
-
-[lushun19s@ict.ac.cn](lushun19s@ict.ac.cn)
+[lushun901@gmail.com](lushun901@gmail.com)
 
 
 6 South Road, Zhongguancun Academy of Sciences
